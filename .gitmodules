@@ -1,0 +1,3 @@
+[submodule "secure-matching"]
+	path = secure-matching
+	url = https://github.com/human-analysis/secure-face-matching.git

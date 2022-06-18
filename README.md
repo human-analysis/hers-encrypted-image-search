@@ -9,8 +9,15 @@
 }
 ```
 
+To clone this project:
+
+```console
+git clone --recurse-submodules https://github.com/human-analysis/hers-encrypted-image-search.git
+```
+
 ## Overview
-<img align="right" width="600" src="assets/overview.png">
+
+<img align="right" width="100%" src="assets/overview.png">
 
 ## Requirements
 - Python
